@@ -1,0 +1,17 @@
+img{
+    width: 400px;
+    margin: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+a:hover{
+    text-decoration:  underline;
+}
+
+.centered{
+ text-align: center;
+}
